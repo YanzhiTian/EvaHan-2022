@@ -1,0 +1,4 @@
+The result of predict_testb.txt is：
+|       Task      |    P    |    R    |    F1   |
+|Word segmentation| 88.4719 | 89.5960 | 89.0304 |
+|   Pos tagging   | 80.3573 | 81.3783 | 80.8646 |

@@ -1,0 +1,4 @@
+The result of predict_testa.txt is：
+|       Task      |    P    |    R    |    F1   |
+|Word segmentation| 94.1056 | 94.6074 | 94.3558 |
+|   Pos tagging   | 88.4445 | 88.9161 | 88.6797 |

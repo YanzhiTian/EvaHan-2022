@@ -1,0 +1,4 @@
+The result of testa_BIT_1_closed.txt is：
+|       Task      |    P    |    R    |    F1   |
+|Word segmentation| 94.4806 | 94.9877 | 94.7335 |
+|   Pos tagging   | 88.9506 | 89.4280 | 89.1887 |
